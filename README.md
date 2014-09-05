@@ -1,0 +1,4 @@
+git-spakista
+============
+
+GIT TRAINING
