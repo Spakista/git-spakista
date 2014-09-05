@@ -1,4 +1,4 @@
 git-spakista
 ============
 
-Hi Im Ronel and im learning this GIT shit
+Hi Im Ronel and im learning this GIT 
