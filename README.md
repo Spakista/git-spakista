@@ -1,4 +1,4 @@
 git-spakista
 ============
 
-GIT TRAINING
+Hi Im Ronel and im learning this GIT 
